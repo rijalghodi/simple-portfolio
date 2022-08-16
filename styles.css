@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #fcecdd;
+}
+
+#home {
+  min-height: 2000px;
+}
+
+#projects {
+  background-color: #fcecdd;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.body-numbers-friend {
+  min-height: 1000px;
+}
+
+.body-sirah-notes {
+  min-height: 1000px;
+}
+
+.body-guy-cooks {
+  min-height: 1000px;
+}
+
+#par1 {
+  font-weight: bolder;
+}
